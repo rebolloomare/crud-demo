@@ -1,0 +1,15 @@
+omare\com\mx\demo\model\Modulos.class
+omare\com\mx\demo\model\Rol.class
+omare\com\mx\demo\model\Producto.class
+omare\com\mx\demo\services\UsuarioService.class
+omare\com\mx\demo\DemoCrudApplication.class
+omare\com\mx\demo\repositories\JdbcProductoRepository.class
+omare\com\mx\demo\repositories\JdbcUsuarioRepository.class
+omare\com\mx\demo\controller\ProductoController.class
+omare\com\mx\demo\services\UsuarioServiceImpl.class
+omare\com\mx\demo\model\Usuario.class
+omare\com\mx\demo\controller\UsuarioController.class
+omare\com\mx\demo\repositories\UsuarioRepository.class
+omare\com\mx\demo\repositories\ProductoRepository.class
+omare\com\mx\demo\model\Estatus.class
+omare\com\mx\demo\exceptions\UsuarioNotFoundException.class

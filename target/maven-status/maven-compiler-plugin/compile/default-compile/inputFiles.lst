@@ -1,0 +1,15 @@
+D:\workspace-certificacion-java11\demo-crud\src\main\java\omare\com\mx\demo\repositories\JdbcProductoRepository.java
+D:\workspace-certificacion-java11\demo-crud\src\main\java\omare\com\mx\demo\repositories\JdbcUsuarioRepository.java
+D:\workspace-certificacion-java11\demo-crud\src\main\java\omare\com\mx\demo\model\Estatus.java
+D:\workspace-certificacion-java11\demo-crud\src\main\java\omare\com\mx\demo\controller\UsuarioController.java
+D:\workspace-certificacion-java11\demo-crud\src\main\java\omare\com\mx\demo\model\Usuario.java
+D:\workspace-certificacion-java11\demo-crud\src\main\java\omare\com\mx\demo\model\Modulos.java
+D:\workspace-certificacion-java11\demo-crud\src\main\java\omare\com\mx\demo\controller\ProductoController.java
+D:\workspace-certificacion-java11\demo-crud\src\main\java\omare\com\mx\demo\DemoCrudApplication.java
+D:\workspace-certificacion-java11\demo-crud\src\main\java\omare\com\mx\demo\model\Rol.java
+D:\workspace-certificacion-java11\demo-crud\src\main\java\omare\com\mx\demo\repositories\UsuarioRepository.java
+D:\workspace-certificacion-java11\demo-crud\src\main\java\omare\com\mx\demo\exceptions\UsuarioNotFoundException.java
+D:\workspace-certificacion-java11\demo-crud\src\main\java\omare\com\mx\demo\services\UsuarioService.java
+D:\workspace-certificacion-java11\demo-crud\src\main\java\omare\com\mx\demo\services\UsuarioServiceImpl.java
+D:\workspace-certificacion-java11\demo-crud\src\main\java\omare\com\mx\demo\model\Producto.java
+D:\workspace-certificacion-java11\demo-crud\src\main\java\omare\com\mx\demo\repositories\ProductoRepository.java
